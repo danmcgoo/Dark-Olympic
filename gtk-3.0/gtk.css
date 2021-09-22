@@ -4171,3 +4171,6 @@ filechooser placessidebar.sidebar scrollbar trough,
 @define-color wm_icon_unfocused_bg #666A74;
 @define-color wm_icon_hover_bg #C4C7CC;
 @define-color wm_icon_active_bg #ffffff;
+
+@import url("mate-applications.css");
+@import url("x-matepanel.css");

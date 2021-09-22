@@ -7,6 +7,7 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Dark-Olympic
 MetacityTheme=Dark-Olympic
-IconTheme=gnome
-CursorTheme=DMZ-Black
+IconTheme=kora
+CursorTheme=mate-black
+NotificationTheme=Slider
 ButtonLayout=menu:minimize,maximize,close

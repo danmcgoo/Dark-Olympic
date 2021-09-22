@@ -1,0 +1,9 @@
+@define-color darken_color #000000;
+@define-color border_color alpha(@darken_color,0.4);
+@define-color dark_border_color alpha(@darken_color,0.4);
+
+PanelToplevel.mate-panel-menu-bar PanelSeparator {
+  color: @dark_border_color;
+  padding: 0;
+}
+

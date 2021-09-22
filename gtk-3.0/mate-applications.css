@@ -1,0 +1,13 @@
+/* the grid left from wnckpager and wncktasklist */
+MatePanelAppletFrameDBus > MatePanelAppletFrameDBus {
+  background-image: -gtk-scaled(url("assets/panel-grid.svg"));
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+*:focus {
+  outline-color: #337Caa;
+  outline-style: solid;
+  outline-width: 2px;
+}
