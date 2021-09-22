@@ -9,5 +9,6 @@ GtkTheme=Dark-Olympic
 MetacityTheme=Dark-Olympic
 IconTheme=kora
 CursorTheme=mate-black
-NotificationTheme=Slider
+CursorSize=24
+NotificationTheme=slider
 ButtonLayout=menu:minimize,maximize,close
